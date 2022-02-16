@@ -1,0 +1,50 @@
+                                                    * {
+                                                        margin: 0;
+                                                        padding: 0;
+                                                        font-family: 'Outfit';
+                                                    }
+                                                    
+                                                    body {
+                                                        background: hsl(212, 45%, 89%);
+                                                    }
+                                                    
+                                                    html {
+                                                        font-size: 10px;
+                                                    }
+                                                    
+                                                    .qr-code {
+                                                        position: fixed;
+                                                        left: 50%;
+                                                        top: 50%;
+                                                        transform: translate(-50%, -50%);
+                                                        border: 1px solid hsl(0, 0%, 100%);
+                                                        background: hsl(0, 0%, 100%);
+                                                        border-radius: 1.4rem;
+                                                        width: 32.2rem;
+                                                        height: 50.2rem;
+                                                    }
+                                                    
+                                                    .img img {
+                                                        Width: 28.9rem;
+                                                        Height: 28.9rem;
+                                                        padding: 2.0rem;
+                                                        border-radius: 4.0rem;
+                                                    }
+                                                    
+                                                    .head-1,
+                                                    .para-2 {
+                                                        font-size: 1.5rem;
+                                                        text-align: center;
+                                                        font-weight: 400;
+                                                    }
+                                                    
+                                                    .para-2 {
+                                                        padding-top: 2.1rem;
+                                                        padding-bottom: 4.5rem;
+                                                        padding-left: 3.6rem;
+                                                        padding-right: 3.6rem;
+                                                    }
+                                                    
+                                                    .para-2 p {
+                                                        color: hsl(220, 15%, 55%);
+                                                    }
